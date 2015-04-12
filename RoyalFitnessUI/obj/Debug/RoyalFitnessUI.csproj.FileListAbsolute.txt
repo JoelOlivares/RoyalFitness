@@ -1,0 +1,121 @@
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe.config
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csprojResolveAssemblyReference.cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.FormularioPrincipal.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.LoginUsuario.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Properties.Resources.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csproj.GenerateResource.Cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.exe
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroUsuario.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroClientes.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness.mdf
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness_log.ldf
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe.config
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.exe
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness.mdf
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness_log.ldf
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csprojResolveAssemblyReference.cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.FormularioPrincipal.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.LoginUsuario.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Properties.Resources.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroClientes.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroUsuario.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csproj.GenerateResource.Cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Pagos.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cPagos.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cUsuarios.resources
+E:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe.config
+E:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.exe
+E:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe.config
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.exe
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csprojResolveAssemblyReference.cache
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cPagos.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cUsuarios.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.FormularioPrincipal.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.LoginUsuario.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Pagos.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Properties.Resources.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroClientes.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroUsuario.resources
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csproj.GenerateResource.Cache
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness.mdf
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness_log.ldf
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.dll
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.dll
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe.config
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.exe
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness.mdf
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness_log.ldf
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csprojResolveAssemblyReference.cache
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cPagos.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cUsuarios.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.FormularioPrincipal.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.LoginUsuario.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Pagos.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Properties.Resources.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroClientes.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroUsuario.resources
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csproj.GenerateResource.Cache
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.xml
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Busquedas.bUsuarios.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe.config
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.exe
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.pdb
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness.mdf
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\DataBase\RoyalFitness_log.ldf
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.exe
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\RoyalFitnessUI.pdb
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.dll
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.dll
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.SqlServer.dll
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.dll
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\BLL.pdb
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.xml
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.SqlServer.xml
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\CDB.pdb
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csprojResolveAssemblyReference.cache
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Busquedas.bUsuarios.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cPagos.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cUsuarios.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.FormularioPrincipal.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.LoginUsuario.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Pagos.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Properties.Resources.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroClientes.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroUsuario.resources
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.csproj.GenerateResource.Cache
+I:\proyecto joel\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cClientes.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.xml
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Busquedas.bUsuarios.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.Consultas.cClientes.resources
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\RoyalFitnessUI\obj\Debug\RoyalFitnessUI.RegistroMedidas.resources

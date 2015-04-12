@@ -1,0 +1,25 @@
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\CDB\bin\Debug\CDB.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\CDB\bin\Debug\CDB.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\CDB\obj\Debug\CDB.csprojResolveAssemblyReference.cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\CDB\obj\Debug\CDB.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\CDB\obj\Debug\CDB.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\CDB.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\CDB.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.csprojResolveAssemblyReference.cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\CDB.dll
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\CDB.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.csprojResolveAssemblyReference.cache
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.dll
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\CDB.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\CDB.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.csprojResolveAssemblyReference.cache
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\obj\Debug\CDB.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\CDB.dll.config
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\EntityFramework.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\EntityFramework.xml
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\CDB\bin\Debug\EntityFramework.SqlServer.xml

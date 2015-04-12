@@ -1,0 +1,28 @@
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\BLL\bin\Debug\BLL.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\BLL\bin\Debug\BLL.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\BLL\bin\Debug\CDB.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\BLL\bin\Debug\CDB.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\BLL\obj\Debug\BLL.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\funciones\RoyalFitness\BLL\obj\Debug\BLL.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\BLL.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\BLL.pdb
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\CDB.dll
+C:\Users\Joel Olivares\Documents\Visual Studio 2013\Projects\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\CDB.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\BLL.dll
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\BLL.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\CDB.dll
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\CDB.pdb
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.dll
+C:\Users\Sandro Nash\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\BLL.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\BLL.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\CDB.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\bin\Debug\CDB.pdb
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.dll
+C:\Users\Marino Rosario\Desktop\proyecto joel\Proyecto Gimnacio\RoyalFitness\BLL\obj\Debug\BLL.pdb

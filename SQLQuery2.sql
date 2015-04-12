@@ -1,0 +1,20 @@
+﻿
+
+CREATE TABLE [dbo].[Pagos](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Fecha] [varchar](15) NULL,
+	[Pago_Mes] [int] NULL,
+	[Efectivo] [int] NULL,
+	[Tarjeta_de_Credito] [int] NULL,
+ CONSTRAINT [PK_Pagos] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
